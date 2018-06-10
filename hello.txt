@@ -2,4 +2,4 @@ hello world！ git
 hi second
 hello
 
-update on both master and feature
+update on master
