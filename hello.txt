@@ -1,5 +1,5 @@
 hello world！ git
 hi second
 hello
-update on master
-haha
+
+update on both master and feature
