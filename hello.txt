@@ -2,4 +2,5 @@ hello world！ git
 hi second
 hello
 
-update on master
+update on both 哈哈
+
